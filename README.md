@@ -17,4 +17,3 @@ general course objectives. In this course, I hope you will benefit in these area
 - Developing specific skills, competencies, and points of view needed by professionals...<br />
 - Gaining a basic understanding of the subject<br />
 - Acquiring skills in working with others as a member of a team<br /><br />
-[CSC305.zip](https://github.com/bferrell514/CSCSoftwareEngineering/files/7865979/CSC305.zip)
