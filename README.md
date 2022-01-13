@@ -1,4 +1,4 @@
-# CSC SoftwareEngineering
+# CSC Software Engineering
 
 **Course Description**<br />
  Programming environments and methodologies for the design, development, testing, and maintenance of large  software systems. Student teams will develop a substantial software product from requirements to delivery using  disciplined techniques.<br />
@@ -17,3 +17,4 @@ general course objectives. In this course, I hope you will benefit in these area
 - Developing specific skills, competencies, and points of view needed by professionals...<br />
 - Gaining a basic understanding of the subject<br />
 - Acquiring skills in working with others as a member of a team<br /><br />
+[CSC305.zip](https://github.com/bferrell514/CSCSoftwareEngineering/files/7865979/CSC305.zip)
